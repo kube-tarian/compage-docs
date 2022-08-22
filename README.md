@@ -1,7 +1,11 @@
-# What is MyProduct?
+# What is Compage?
+
+#### What's with the name?
+
+> "Compage" is a Latin word, translates into "Framework" in English.
 
 {% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
+Low-Code/No-Code framework for auto-generation and customization of the code base. Compage helps Developers to follow the industry standards and best practice methods like openAPI, CloudEvents, Software Supply Chain Security, AI/ML, etc. while empowering Developers to easily adopt different programming languages, frameworks, tools, methods, techniques, etc. Compage helps Organizations to reduce skill debt and improves project(s) timelines.
 {% endhint %}
 
 Here are a couple of examples of succinct overviews from products with really great docs:
